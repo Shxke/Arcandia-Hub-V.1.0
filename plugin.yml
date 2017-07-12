@@ -1,0 +1,7 @@
+name: ArcandiaNetwork
+main: me.beefstew2007.arcandianetwork.Main
+version: 1.0.0
+
+commands:
+    r-reload:
+        description: Reload Ranks!
